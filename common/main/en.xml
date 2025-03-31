@@ -117,6 +117,8 @@ annotations.
 			<language type="cay">Cayuga</language>
 			<language type="cch">Atsam</language>
 			<language type="ccp">Chakma</language>
+			<language type="cdo">Min Dong Chinese</language>
+			<language type="cdo" alt="menu">Chinese, Min Dong</language>
 			<language type="ce">Chechen</language>
 			<language type="ceb">Cebuano</language>
 			<language type="cgg">Chiga</language>
@@ -131,13 +133,19 @@ annotations.
 			<language type="chr">Cherokee</language>
 			<language type="chy">Cheyenne</language>
 			<language type="cic">Chickasaw</language>
+			<language type="cjy">Jinyu Chinese</language>
+			<language type="cjy" alt="menu">Chinese, Jinyu</language>
 			<language type="ckb">Central Kurdish</language>
 			<language type="ckb" alt="menu">Kurdish, Central</language>
 			<language type="ckb" alt="variant">Kurdish, Sorani</language>
 			<language type="clc">Chilcotin</language>
+			<language type="cnp">Northern Ping Chinese</language>
+			<language type="cnp" alt="menu">Chinese, Northern Pinghua</language>
 			<language type="co">Corsican</language>
 			<language type="cop">Coptic</language>
 			<language type="cps">Capiznon</language>
+			<language type="cpx">Pu-Xian Chinese</language>
+			<language type="cpx" alt="menu">Chinese, Pu-Xian</language>
 			<language type="cr">Cree</language>
 			<language type="cr" alt="long">Woods Cree</language>
 			<language type="crg">Michif</language>
@@ -150,10 +158,16 @@ annotations.
 			<language type="crs">Seselwa Creole French</language>
 			<language type="cs">Czech</language>
 			<language type="csb">Kashubian</language>
+			<language type="csp">Southern Ping Chinese</language>
+			<language type="csp" alt="menu">Chinese, Southern Pinghua</language>
 			<language type="csw">Swampy Cree</language>
 			<language type="cu">Church Slavic</language>
 			<language type="cv">Chuvash</language>
 			<language type="cy">Welsh</language>
+			<language type="czh">Huizhou Chinese</language>
+			<language type="czh" alt="menu">Chinese, Huizhou</language>
+			<language type="czo">Min Zhong Chinese</language>
+			<language type="czo" alt="menu">Chinese, Min Zhong</language>
 			<language type="da">Danish</language>
 			<language type="dak">Dakota</language>
 			<language type="dar">Dargwa</language>
@@ -381,9 +395,13 @@ annotations.
 			<language type="lrc">Northern Luri</language>
 			<language type="lsm">Saamia</language>
 			<language type="lt">Lithuanian</language>
+			<language type="ltc">Late Middle Chinese</language>
+			<language type="ltc" alt="menu">Chinese, Late Middle</language>
 			<language type="ltg">Latgalian</language>
 			<language type="lu">Luba-Katanga</language>
 			<language type="lua">Luba-Lulua</language>
+			<language type="luh">Leizhou Chinese</language>
+			<language type="luh" alt="menu">Chinese, Leizhou</language>
 			<language type="lui">Luiseno</language>
 			<language type="lun">Lunda</language>
 			<language type="luo">Luo</language>
@@ -419,6 +437,8 @@ annotations.
 			<language type="mn">Mongolian</language>
 			<language type="mnc">Manchu</language>
 			<language type="mni">Manipuri</language>
+			<language type="mnp">Min Bei Chinese</language>
+			<language type="mnp" alt="menu">Chinese, Min Bei</language>
 			<language type="moe">Innu-aimun</language>
 			<language type="moh">Mohawk</language>
 			<language type="mos">Mossi</language>
@@ -475,6 +495,8 @@ annotations.
 			<language type="nyo">Nyoro</language>
 			<language type="nzi">Nzima</language>
 			<language type="oc">Occitan</language>
+			<language type="och">Old Chinese</language>
+			<language type="och" alt="menu">Chinese, Old</language>
 			<language type="oj">Ojibwa</language>
 			<language type="ojb">Northwestern Ojibwa</language>
 			<language type="ojc">Central Ojibwa</language>
@@ -567,6 +589,8 @@ annotations.
 			<language type="shu">Chadian Arabic</language>
 			<language type="si">Sinhala</language>
 			<language type="sid">Sidamo</language>
+			<language type="sjc">Shaojiang Chinese</language>
+			<language type="sjc" alt="menu">Chinese, Shaojiang</language>
 			<language type="sk">Slovak</language>
 			<language type="sl">Slovenian</language>
 			<language type="slh">Southern Lushootseed</language>
